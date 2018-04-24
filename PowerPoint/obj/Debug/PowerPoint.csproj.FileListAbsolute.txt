@@ -1,0 +1,10 @@
+D:\Programs\PowerPoint\PowerPoint\obj\Debug\PowerPoint.csprojResolveAssemblyReference.cache
+D:\Programs\PowerPoint\PowerPoint\obj\Debug\PowerPoint.Properties.Resources.resources
+D:\Programs\PowerPoint\PowerPoint\obj\Debug\PowerPoint.csproj.GenerateResource.cache
+D:\Programs\PowerPoint\PowerPoint\obj\Debug\PowerPoint.csproj.CoreCompileInputs.cache
+D:\Programs\PowerPoint\PowerPoint\bin\Debug\PowerPoint.exe.config
+D:\Programs\PowerPoint\PowerPoint\bin\Debug\PowerPoint.exe
+D:\Programs\PowerPoint\PowerPoint\bin\Debug\PowerPoint.pdb
+D:\Programs\PowerPoint\PowerPoint\obj\Debug\PowerPoint.exe
+D:\Programs\PowerPoint\PowerPoint\obj\Debug\PowerPoint.pdb
+D:\Programs\PowerPoint\PowerPoint\obj\Debug\PowerPoint.PowerPoint.resources
